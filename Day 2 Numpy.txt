@@ -1,0 +1,9 @@
+pip install jupyter
+jupyter notebook
+- new python3(ipykernal)
+- markdown file with # and shift enter(execute code block)
+
+
+## to install packages with notebook
+!pip install numpy
+
